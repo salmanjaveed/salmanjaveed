@@ -5,7 +5,7 @@
 #### AWS Certified Solutions Architect Associate
 #### AWS Certified Developer Associate
 
-
+- 🔭 Full Stack Laravel / PHP / Alpine.js / jQuery 
 - 🔭 Design, Develop & Maintain Websites from scratch
 - 🌱 WordPress / eCommerce Expert
 - 🔭 I’m Currently working on the Cloud
