@@ -1,15 +1,13 @@
-#### Hi there 👋
-
-## I'm Salman :)
+## WordPress | WooCommerce | Elementor | Cloud Engineer | Full Stack TALL developer👋
+ 
 ### Web & Application Developer, Cloud Migration Specialist
-#### AWS Certified Solutions Architect Associate
-#### AWS Certified Developer Associate
+#### AWS Certified Solutions Architect Associate & Developer Associate 
 
-- 🔭 Full Stack Laravel / PHP / Alpine.js / jQuery 
+- 🔭 Full Stack developer on TALL
 - 🔭 Design, Develop & Maintain Websites from scratch
-- 🌱 WordPress / eCommerce Expert
+- 🌱 WordPress / Elementor / eCommerce Expert
 - 🔭 I’m Currently working on the Cloud
-- ⚡ Fun fact: I migrate WordPress Websites and Web Apps to the Cloud
+- ⚡ I migrate WordPress Websites and Web Apps to the Cloud or any other web host
 
 <!--
 **salmanjaveed/salmanjaveed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
