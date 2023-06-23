@@ -1,4 +1,4 @@
-## WordPress | WooCommerce | Elementor | Cloud Engineer | Full Stack TALL developer👋
+## WordPress | WooCommerce | Elementor | Cloud Engineer | Full TALL Stack developer👋
  
 ### Web & Application Developer, Cloud Migration Specialist
 #### AWS Certified Solutions Architect Associate & Developer Associate 
