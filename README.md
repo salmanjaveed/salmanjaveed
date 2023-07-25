@@ -14,13 +14,13 @@
 - 🔭 I’m Currently working on the Cloud
 - ⚡ I migrate WordPress Websites and Web Apps to the Cloud or any other web host
 
-![WordPress](images/wordpress.svg) 
-![WooCommerce](images/woocommerce.svg) 
-![Elementor Page Builder](images/elementor.svg) 
-![Tailwind CSS](images/tailwind-css-woodmark.svg) 
-![Alpine.js](images/alpine.svg) 
-![Laravel](images/laravel.png) 
-![Laravel Livewire](images/laravel-livewire.png) 
+![WordPress](images/wordpress.svg width="250") 
+![WooCommerce](images/woocommerce.svg width="250")  
+![Elementor Page Builder](images/elementor.svg width="250")  
+![Tailwind CSS](images/tailwind-css-wordmark.svg width="250")  
+![Alpine.js](images/alpine.svg width="250")  
+![Laravel](images/laravel.png width="250")  
+![Laravel Livewire](images/laravel-livewire.png width="250")  
 
 <!--
 **salmanjaveed/salmanjaveed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
