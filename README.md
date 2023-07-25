@@ -1,3 +1,6 @@
+![AWS Certified]https://github.com/salmanjaveed/salmanjaveed/blob/master/AWS_Certified_Logo_SAA_294x230_Color.jpg
+![Solutions Architect - Associate]https://github.com/salmanjaveed/salmanjaveed/blob/master/AWS_Certified_Tag__SAA_294x230-Black.jpg
+![Developer - Associate]https://github.com/salmanjaveed/salmanjaveed/blob/master/AWS_Certified_Tag__DVA_294x230-Black.jpg
 ## WordPress | WooCommerce | Elementor | Cloud Engineer | Full Stack - TALL developer👋
  
 ### Web & Application Developer, Cloud Migration Specialist
