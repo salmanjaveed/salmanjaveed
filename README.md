@@ -1,9 +1,9 @@
 
 ## WordPress | WooCommerce | Elementor | Cloud Engineer | Full Stack - TALL developer👋
 
-![AWS Certified](AWS_Certified_Logo_SAA_294x230_Color.jpg)  
-![Solutions Architect - Associate](AWS_Certified_Tag__SAA_294x230-Black.jpg)  
-![Developer - Associate](AWS_Certified_Tag__DVA_294x230-Black.jpg)  
+![AWS Certified](images/AWS_Certified_Logo_SAA_294x230_Color.jpg)  
+![Solutions Architect - Associate](images/AWS_Certified_Tag__SAA_294x230-Black.jpg)  
+![Developer - Associate](images/AWS_Certified_Tag__DVA_294x230-Black.jpg)  
  
 ### Web & Application Developer, Cloud Migration Specialist
 #### AWS Certified Solutions Architect Associate & Developer Associate 
