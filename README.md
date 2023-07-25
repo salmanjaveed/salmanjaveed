@@ -14,13 +14,13 @@
 - 🔭 I’m Currently working on the Cloud
 - ⚡ I migrate WordPress Websites and Web Apps to the Cloud or any other web host
 
-![WordPress](images/wordpress.svg | width=250) 
-![WooCommerce](images/woocommerce.svg | width=250)  
-![Elementor Page Builder](images/elementor.svg | width=250)  
-![Tailwind CSS](images/tailwind-css-wordmark.svg | width=250)  
-![Alpine.js](images/alpine.svg | width=250)  
-![Laravel](images/laravel.png | width=250)  
-![Laravel Livewire](images/laravel-livewire.png | width=250)  
+![WordPress]<img src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/wordpress.svg?raw=true" width="250" />
+![WooCommerce]<img src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/woocommerce.svg?raw=true" width="250" />
+![Elementor Page Builder]<img src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/elementor.svg?raw=true" width="250" />
+![Tailwind CSS]<img src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/tailwind-css-wordmark.svg?raw=true" width="250" />
+![Alpine.js]<img src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/alpine.svg?raw=true" width="250" />
+![Laravel]<img src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/laravel.png?raw=true" width="250" />
+![Laravel Livewire]<img src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/laravel-livewire.png?raw=true" width="250" />
 
 <!--
 **salmanjaveed/salmanjaveed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
