@@ -14,13 +14,15 @@
 - 🔭 I’m Currently working on the Cloud
 - ⚡ I migrate WordPress Websites and Web Apps to the Cloud or any other web host
 
-<img alt="WordPress" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/wordpress.svg?raw=true" width="250" />
-<img alt="WooCommerce" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/woocommerce.svg?raw=true" width="250" />
-<img alt="Elementor Page Builder" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/elementor.svg?raw=true" width="250" />
-<img alt="Tailwind CSS" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/tailwind-css-wordmark.svg?raw=true" width="250" />
-<img alt="Alpine.js" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/alpine.svg?raw=true" width="250" />
-<img alt="Laravel" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/laravel.png?raw=true" width="250" />
-<img alt="Laravel Livewire" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/laravel-livewire.png?raw=true" width="250" />
+<p float="left" align="center">
+<img valign="middle" alt="WordPress" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/wordpress.svg?raw=true" width="250" /> &nbsp; &nbsp; &nbsp; &nbsp;
+<img valign="middle" alt="WooCommerce" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/woocommerce.svg?raw=true" width="150" /> &nbsp; &nbsp; &nbsp; &nbsp;
+<img valign="middle" alt="Elementor Page Builder" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/elementor.svg?raw=true" width="150" /> &nbsp; &nbsp; &nbsp; &nbsp;
+<img valign="middle" alt="Tailwind CSS" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/tailwind-css-wordmark.svg?raw=true" width="250" /> &nbsp; &nbsp; &nbsp; &nbsp;
+<img valign="middle" alt="Alpine.js" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/alpine.svg?raw=true" width="250" /> &nbsp; &nbsp; &nbsp; &nbsp;
+<img valign="middle" alt="Laravel" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/laravel.png?raw=true" width="250" /> &nbsp; &nbsp; &nbsp; &nbsp;
+<img valign="middle" alt="Laravel Livewire" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/laravel-livewire.png?raw=true" width="250" /> &nbsp; &nbsp; &nbsp; &nbsp;
+</p>
 
 <!--
 **salmanjaveed/salmanjaveed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
