@@ -24,6 +24,50 @@
 <img valign="middle" alt="Laravel Livewire" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/laravel-livewire.png?raw=true" width="250" /> &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
+# Salman Javeed — Freelance Engineer
+**Laravel • WordPress/Elementor • Power BI • API Integrations • Microsoft 365/SharePoint**  
+Chennai, India • Freelancing since 2014
+
+I help teams ship reliable web apps, dashboards, and integrations—fast. Strong focus on Laravel (Blade/Livewire/Alpine/Tailwind), WordPress/Elementor, Power BI pipelines, and “last-mile” API work (Keap, RingCentral, Mailtrap, Microsoft Graph, Google Ads).
+
+---
+
+### What I do
+- **Laravel apps**: REST APIs, admin panels, PDF workflows, OTP/email flows, Twilio/WhatsApp, Microsoft Graph.
+- **WordPress/Elementor**: custom widgets/plugins, high-performing landing pages, statewise content architectures, SEO.
+- **Power BI & M365**: data models, refresh pipelines, SharePoint/Power Automate embeds, scheduled PDF exports.
+
+### Selected work snapshots
+- **Intake → CRM pipeline**: Laravel + Keap/RingCentral ETL, robust retries & pagination, daily reporting.
+- **VA benefits content system**: Elementor + custom plugin (states, deep-links, schema, internal linking).
+- **BI automation**: Power BI service export → PDF → org-wide email via Power Automate with access controls.
+
+> Most client repos are private; public code below mirrors patterns I use in production.
+
+---
+
+### Tech at a glance
+- **Backend**: PHP 8.x, Laravel, Livewire, Sanctum
+- **Frontend**: Alpine.js, Vite, Tailwind
+- **WP**: Elementor, ACF, custom plugins/widgets
+- **Data/BI**: Power BI (DAX/M), Power Automate, SharePoint
+- **APIs**: Keap/Infusionsoft, RingCentral, Microsoft Graph, Google Ads, Twilio/WhatsApp, Mailtrap
+- **Ops**: cPanel, AWS Lightsail, Railway, GitHub Actions
+
+### Certifications & education
+BSc Computer Science • NIIT Advanced Diploma • IIT-Madras (Modern App Dev)  
+AWS SAA & DVA (previously certified; may be expired)
+
+---
+
+### Get in touch
+- **Email:** [salmanjaveed@gmail.com](mailto:salmanjaveed@gmail.com) \
+- **LinkedIn/Website:** *(https://linkedin.com/in/salmanjaveed)*
+
+> Open to short consulting engagements and fixed-scope builds.
+
+
+
 <!--
 **salmanjaveed/salmanjaveed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
