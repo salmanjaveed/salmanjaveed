@@ -56,7 +56,7 @@ I help teams ship reliable web apps, dashboards, and integrations—fast. Strong
 
 ### Certifications & education
 BSc Computer Science • NIIT Advanced Diploma • IIT-Madras (Modern App Dev)  
-AWS SAA & DVA (previously certified; may be expired)
+AWS SAA & DVA
 
 ---
 
