@@ -61,8 +61,8 @@ AWS SAA & DVA (previously certified; may be expired)
 ---
 
 ### Get in touch
-- **Email:** [salmanjaveed@gmail.com](mailto:salmanjaveed@gmail.com) \
-- **LinkedIn/Website:** *(https://linkedin.com/in/salmanjaveed)*
+- **Email:** [salmanjaveed@gmail.com](mailto:salmanjaveed@gmail.com)
+- **LinkedIn/Website:** *https://linkedin.com/in/salmanjaveed*
 
 > Open to short consulting engagements and fixed-scope builds.
 
