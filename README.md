@@ -55,8 +55,10 @@ I help teams ship reliable web apps, dashboards, and integrations—fast. Strong
 - **Ops**: cPanel, AWS Lightsail, Railway, GitHub Actions
 
 ### Certifications & education
-BSc Computer Science • NIIT Advanced Diploma • IIT-Madras (Modern App Dev)  
-AWS SAA & DVA
+- **BSc Computer Science**
+- **NIIT Advanced Diploma**
+- **IIT-Madras (Modern App Dev)**
+- **AWS SAA & DVA**
 
 ---
 
