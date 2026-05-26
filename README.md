@@ -12,7 +12,7 @@ I build reliable web applications, REST APIs, and data integrations for business
 ## What I Build
 
 **Laravel Applications**  
-REST APIs, admin dashboards, PDF generation pipelines, OTP/email flows, webhook handlers, Twilio/WhatsApp messaging, Microsoft Graph integrations.
+REST APIs, admin panels (Filament), PDF generation pipelines, OTP/email flows, webhook handlers, Twilio/WhatsApp messaging, Microsoft Graph integrations.
 
 **AI-Powered Web Development**  
 Conversational AI features (Claude, OpenAI APIs) embedded into websites and web apps; AI-driven lead capture, content generation, and customer support bots; prompt engineering and LLM workflow automation; AI-assisted development with Claude Code and GitHub Copilot.
@@ -49,7 +49,7 @@ End-to-end integration work with Keap/Infusionsoft, RingCentral, Microsoft Graph
 | Category | Technologies |
 |---|---|
 | **AI & LLMs** | Claude API (Anthropic), OpenAI API, prompt engineering, AI chatbots, LLM workflow automation, Claude Code |
-| **Backend** | PHP 8.x, Laravel, Livewire, Sanctum, procedural PHP |
+| **Backend** | PHP 8.x, Laravel, Livewire, Filament, Sanctum, procedural PHP |
 | **Frontend** | Alpine.js, Tailwind CSS, Vite, Vanilla JS (ES6+), HTML5/CSS3 |
 | **WordPress** | Elementor, WooCommerce, ACF, custom plugins & widgets |
 | **Data & BI** | Power BI (DAX/M), Power Automate, SharePoint |
