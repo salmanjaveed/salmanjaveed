@@ -1,87 +1,77 @@
+# Salman Javeed
 
-## WordPress | WooCommerce | Elementor | Cloud Engineer | Full Stack - TALL developer👋
-
-![AWS Certified](images/AWS_Certified_Logo_SAA_294x230_Color.jpg)  
-![Solutions Architect - Associate](images/AWS_Certified_Tag__SAA_294x230-Black.jpg)  
-![Developer - Associate](images/AWS_Certified_Tag__DVA_294x230-Black.jpg)  
- 
-### Web & Application Developer, Cloud Migration Specialist
-#### AWS Certified Solutions Architect Associate & Developer Associate 
-
-- 🔭 Full Stack developer on TALL
-- 🔭 Design, Develop & Maintain Websites from scratch
-- 🌱 WordPress / Elementor / eCommerce Expert
-- 🔭 I’m Currently working on the Cloud
-- ⚡ I migrate WordPress Websites and Web Apps to the Cloud or any other web host
-
-<p float="left" align="center">
-<img valign="middle" alt="WordPress" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/wordpress.svg?raw=true" width="250" /> &nbsp; &nbsp; &nbsp; &nbsp;
-<img valign="middle" alt="WooCommerce" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/woocommerce.svg?raw=true" width="150" /> &nbsp; &nbsp; &nbsp; &nbsp;
-<img valign="middle" alt="Elementor Page Builder" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/elementor.svg?raw=true" width="150" /> &nbsp; &nbsp; &nbsp; &nbsp;
-<img valign="middle" alt="Tailwind CSS" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/tailwind-css-wordmark.svg?raw=true" width="250" /> &nbsp; &nbsp; &nbsp; &nbsp;
-<img valign="middle" alt="Alpine.js" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/alpine.svg?raw=true" width="250" /> &nbsp; &nbsp; &nbsp; &nbsp;
-<img valign="middle" alt="Laravel" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/laravel.png?raw=true" width="250" /> &nbsp; &nbsp; &nbsp; &nbsp;
-<img valign="middle" alt="Laravel Livewire" src="https://github.com/salmanjaveed/salmanjaveed/blob/master/images/laravel-livewire.png?raw=true" width="250" /> &nbsp; &nbsp; &nbsp; &nbsp;
-</p>
-
-# Salman Javeed — Freelance Engineer
-**Laravel • WordPress/Elementor • Power BI • API Integrations • Microsoft 365/SharePoint**  
-Chennai, India • Freelancing since 2014
-
-I help teams ship reliable web apps, dashboards, and integrations—fast. Strong focus on Laravel (Blade/Livewire/Alpine/Tailwind), WordPress/Elementor, Power BI pipelines, and “last-mile” API work (Keap, RingCentral, Mailtrap, Microsoft Graph, Google Ads).
+**Full Stack Developer · AI-Powered Web Development · Cloud & API Integrations**  
+Chennai, India &nbsp;·&nbsp; Freelancing since 2014 &nbsp;·&nbsp; [salmanjaveed@gmail.com](mailto:salmanjaveed@gmail.com) &nbsp;·&nbsp; [linkedin.com/in/salmanjaveed](https://linkedin.com/in/salmanjaveed)
 
 ---
 
-### What I do
-- **Laravel apps**: REST APIs, admin panels, PDF workflows, OTP/email flows, Twilio/WhatsApp, Microsoft Graph.
-- **WordPress/Elementor**: custom widgets/plugins, high-performing landing pages, statewise content architectures, SEO.
-- **Power BI & M365**: data models, refresh pipelines, SharePoint/Power Automate embeds, scheduled PDF exports.
-
-### Selected work snapshots
-- **Intake → CRM pipeline**: Laravel + Keap/RingCentral ETL, robust retries & pagination, daily reporting.
-- **VA benefits content system**: Elementor + custom plugin (states, deep-links, schema, internal linking).
-- **BI automation**: Power BI service export → PDF → org-wide email via Power Automate with access controls.
-
-> Most client repos are private; public code below mirrors patterns I use in production.
+I build reliable web applications, REST APIs, and data integrations for businesses that need things done right. My work spans the full delivery cycle — architecture, backend, frontend, third-party integrations, and deployment. Lately I've been integrating AI capabilities directly into client websites and workflows: AI chatbots, Claude/OpenAI API backends, prompt-driven automation, and AI-assisted content pipelines.
 
 ---
 
-### Tech at a glance
-- **Backend**: PHP 8.x, Laravel, Livewire, Sanctum
-- **Frontend**: Alpine.js, Vite, Tailwind
-- **WP**: Elementor, ACF, custom plugins/widgets
-- **Data/BI**: Power BI (DAX/M), Power Automate, SharePoint
-- **APIs**: Keap/Infusionsoft, RingCentral, Microsoft Graph, Google Ads, Twilio/WhatsApp, Mailtrap
-- **Ops**: cPanel, AWS Lightsail, Railway, GitHub Actions
+## What I Build
 
-### Certifications & education
-- **BSc Computer Science** - _University of Madras_
-- **Advanced Diploma in Systems Management** - _National Institute of Information Technology (NIIT)_
-- **Modern Application Development** - _Indian Institute of Technology, Madras (IIT, Madras)_
-- **AWS Solutions Architect Associate** - _AWS_
-- **AWS Developer Associate** - _AWS_
+**Laravel Applications**  
+REST APIs, admin dashboards, PDF generation pipelines, OTP/email flows, webhook handlers, Twilio/WhatsApp messaging, Microsoft Graph integrations.
+
+**AI-Powered Web Development**  
+Conversational AI features (Claude, OpenAI APIs) embedded into websites and web apps; AI-driven lead capture, content generation, and customer support bots; prompt engineering and LLM workflow automation; AI-assisted development with Claude Code and GitHub Copilot.
+
+**WordPress & Elementor**  
+Custom plugins and widgets, high-performance landing pages, statewise content architectures, eCommerce (WooCommerce), schema markup and SEO.
+
+**Power BI & Microsoft 365**  
+Data models (DAX/M), automated refresh pipelines, SharePoint and Power Automate embeds, scheduled PDF exports and email distribution.
+
+**API & CRM Integrations**  
+End-to-end integration work with Keap/Infusionsoft, RingCentral, Microsoft Graph, Google Ads, SendGrid, Twilio, Cloudflare, and Zapier.
 
 ---
 
-### Get in touch
+## Selected Projects
+
+**Intake → CRM Pipeline** — Laravel ETL connecting a client intake flow to Keap/RingCentral with robust retry logic, pagination handling, and daily reporting.
+
+**STR Lead Capture System** — Static marketing site with a PHP backend, Cloudflare Turnstile bot protection, Keap CRM contact creation, and SendGrid eBook delivery. Deployed via GitHub Actions over rsync.
+
+**VA Benefits Content System** — WordPress/Elementor custom plugin managing state-specific content, deep links, schema markup, and internal linking at scale.
+
+**BI Automation** — Power BI service → PDF export → org-wide email delivery via Power Automate, with role-based access controls.
+
+**Property Management API** — Laravel REST API (api2.sevenprinciples.com) replacing a legacy Python/PythonAnywhere service, with Keap contact webhooks, phone number normalization, and Zapier-compatible responses.
+
+> Most client repositories are private. Public repos below reflect patterns used in production.
+
+---
+
+## Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **AI & LLMs** | Claude API (Anthropic), OpenAI API, prompt engineering, AI chatbots, LLM workflow automation, Claude Code |
+| **Backend** | PHP 8.x, Laravel, Livewire, Sanctum, procedural PHP |
+| **Frontend** | Alpine.js, Tailwind CSS, Vite, Vanilla JS (ES6+), HTML5/CSS3 |
+| **WordPress** | Elementor, WooCommerce, ACF, custom plugins & widgets |
+| **Data & BI** | Power BI (DAX/M), Power Automate, SharePoint |
+| **APIs** | Keap/Infusionsoft, RingCentral, Microsoft Graph, Google Ads, SendGrid, Twilio/WhatsApp, Cloudflare Turnstile |
+| **DevOps & Cloud** | AWS (Lightsail, EC2), GitHub Actions, rsync/SSH, Apache, cPanel, Railway |
+| **Tools** | Git, Composer, npm, Zapier, Mailtrap |
+
+---
+
+## Certifications & Education
+
+- **AWS Certified Solutions Architect – Associate**
+- **AWS Certified Developer – Associate**
+- **BSc Computer Science** — University of Madras
+- **Modern Application Development** — IIT Madras
+- **Advanced Diploma in Systems Management** — NIIT
+
+---
+
+## Get in Touch
+
+Open to fixed-scope builds and short consulting engagements.
+
 - **Email:** [salmanjaveed@gmail.com](mailto:salmanjaveed@gmail.com)
-- **LinkedIn/Website:** *https://linkedin.com/in/salmanjaveed*
-
-> Open to short consulting engagements and fixed-scope builds.
-
-
-
-<!--
-**salmanjaveed/salmanjaveed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m Currently working on .
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LinkedIn:** [linkedin.com/in/salmanjaveed](https://linkedin.com/in/salmanjaveed)
